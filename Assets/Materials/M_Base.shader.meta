@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bcfecb6e67d04e146b8f26d5dde199a9
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _vmghdejo_2K_Displacement: {fileID: 2800000, guid: c4b5221be07f9d94d80397b1d93c566b, type: 3}
+  - _low_poly_interior_1024: {fileID: 2800000, guid: a88252e61605e464ea8a261d7bfa37a9, type: 3}
+  - _T_Room_01_BC: {fileID: 2800000, guid: ae6befbf0c2ac05459037b0187686217, type: 3}
+  - _Normal_Tex: {fileID: 2800000, guid: e880d91f3c4600a4bac6b774f3d3af35, type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

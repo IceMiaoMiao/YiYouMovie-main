@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MI_Computer
+  m_Shader: {fileID: 4800000, guid: bcfecb6e67d04e146b8f26d5dde199a9, type: 3}
+  m_ShaderKeywords: _EMISSION_ON
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Normal_Tex:
+        m_Texture: {fileID: 2800000, guid: e880d91f3c4600a4bac6b774f3d3af35, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _T_Room_01_BC:
+        m_Texture: {fileID: 2800000, guid: ae6befbf0c2ac05459037b0187686217, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _low_poly_interior_1024:
+        m_Texture: {fileID: 2800000, guid: a88252e61605e464ea8a261d7bfa37a9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _30: 0
+    - _ColorTex: 0
+    - _Emission: 1
+    - _Float0: 0.4
+    - _LayerNumber: 5
+    - _LayerOffest: 0.09
+    - _Normal: 0
+    - __dirty: 0
+    m_Colors:
+    - _Base_Color: {r: 0.3066038, g: 0.78798425, b: 1, a: 0}
