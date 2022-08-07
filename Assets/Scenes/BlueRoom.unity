@@ -8005,7 +8005,6 @@ GameObject:
   - component: {fileID: 628282752}
   - component: {fileID: 628282751}
   - component: {fileID: 628282750}
-  - component: {fileID: 628282749}
   - component: {fileID: 628282748}
   - component: {fileID: 628282747}
   - component: {fileID: 628282746}
@@ -8109,7 +8108,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: -1835.9116, y: -34.16743}
+  scrollPos: {x: -4056.46, y: -2.6605873}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 368
@@ -9180,8 +9179,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 6070.7856
-    y: 259.1535
+    x: 5902.293
+    y: 194.76991
     width: 86.98629
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -9501,7 +9500,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 5397.6606
+    x: 5396.291
     y: 255.28555
     width: 76.02739
     height: 40
@@ -9516,7 +9515,6 @@ MonoBehaviour:
   - {fileID: 628282449}
   - {fileID: 628282448}
   - {fileID: 628282447}
-  - {fileID: 628282749}
   suppressAllAutoSelections: 0
 --- !u!114 &628282452
 MonoBehaviour:
@@ -9614,7 +9612,7 @@ MonoBehaviour:
   indentLevel: 0
   text: "\u5173\u673A\u7761\u89C9"
   description: 
-  targetBlock: {fileID: 0}
+  targetBlock: {fileID: 628282401}
   hideIfVisited: 0
   interactable:
     booleanRef: {fileID: 0}
@@ -16831,31 +16829,6 @@ MonoBehaviour:
   stopVoiceover: 1
   waitForVO: 0
   setSayDialog: {fileID: 0}
---- !u!114 &628282749
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 628282346}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 646
-  indentLevel: 0
-  text: "\u574F\u7ED3\u5C40"
-  description: 
-  targetBlock: {fileID: 628282401}
-  hideIfVisited: 0
-  interactable:
-    booleanRef: {fileID: 0}
-    booleanVal: 1
-  setMenuDialog: {fileID: 0}
-  hideThisOption:
-    booleanRef: {fileID: 0}
-    booleanVal: 0
 --- !u!114 &628282750
 MonoBehaviour:
   m_ObjectHideFlags: 2
